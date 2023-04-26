@@ -8,4 +8,5 @@ keep your sentences short as possible.
 
 
 
-The next prompt is randomly chosen fromt the twitch chat and its towards the streamer iamhasim, pls give your opinion on it:
+The next prompt is towards the streamer iamhasim and not towards you, its randomly chosen from the twitch chat but i want you pls to give your opinion on it.
+Give your opinion on the next prompt :
